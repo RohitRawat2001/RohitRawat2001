@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+
 - 🌱 I’m currently learning **Advanced java**
 
 - 👨‍💻 All of my projects are available at [https://rohitrawat2001.github.io/PortFolio_website.github.io/](https://rohitrawat2001.github.io/PortFolio_website.github.io/)
@@ -18,7 +20,7 @@
 
 - 📫 How to reach me **rohitrawat5172@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/ROHIT%20RAWAT/AppData/Local/Microsoft/Windows/INetCache/IE/MOQAGIDZ/Rohit_Resume[1].pdf](file:///C:/Users/ROHIT%20RAWAT/AppData/Local/Microsoft/Windows/INetCache/IE/MOQAGIDZ/Rohit_Resume[1].pdf)
+- 📄 Know about my experiences [Resume.pdf](file:///C:/Users/ROHIT%20RAWAT/AppData/Local/Microsoft/Windows/INetCache/IE/MOQAGIDZ/Rohit_Resume[1].pdf)
 
 - ⚡ Fun fact **I am funny 😊👍**
 
