@@ -20,7 +20,7 @@
 
 - 📫 How to reach me : **rohitrawat5172@gmail.com**
 
-- 📄 Know about my experiences : [Resume.pdf](file:///C:/Users/ROHIT%20RAWAT/AppData/Local/Microsoft/Windows/INetCache/IE/MOQAGIDZ/Rohit_Resume[1].pdf)
+- 📄 Know about my experiences : [Resume.pdf](/Users/ROHIT%20RAWAT/Downloads/resume%20(2).pdf)
 
 - ⚡ Fun fact : **I am funny 😊👍**
 
