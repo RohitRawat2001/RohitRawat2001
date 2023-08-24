@@ -14,15 +14,15 @@
 
 - 🌱 I’m currently learning **Advanced java**
 
-- 👨‍💻 All of my projects are available at [https://rohitrawat2001.github.io/PortFolio_website.github.io/](https://rohitrawat2001.github.io/PortFolio_website.github.io/)
+- 👨‍💻  PortFolio (not for use) : [https://rohitrawat2001.github.io/PortFolio_website.github.io/](https://rohitrawat2001.github.io/PortFolio_website.github.io/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about : **Java**
 
-- 📫 How to reach me **rohitrawat5172@gmail.com**
+- 📫 How to reach me : **rohitrawat5172@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](file:///C:/Users/ROHIT%20RAWAT/AppData/Local/Microsoft/Windows/INetCache/IE/MOQAGIDZ/Rohit_Resume[1].pdf)
+- 📄 Know about my experiences : [Resume.pdf](file:///C:/Users/ROHIT%20RAWAT/AppData/Local/Microsoft/Windows/INetCache/IE/MOQAGIDZ/Rohit_Resume[1].pdf)
 
-- ⚡ Fun fact **I am funny 😊👍**
+- ⚡ Fun fact : **I am funny 😊👍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
