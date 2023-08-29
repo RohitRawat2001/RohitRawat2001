@@ -10,11 +10,13 @@
 <h3 align="left">Aspiring B.Tech Computer Science graduate seeking opportunities to leverage my technical skills and knowledge to contribute effectively to a dynamic organization while gaining valuable experience and professional growth</h3>
 
 
- <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitrawat2001&label=Profile%20views&color=0e75b6&style=flat" alt="rohitrawat2001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
 
 
