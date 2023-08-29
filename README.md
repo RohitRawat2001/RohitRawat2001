@@ -18,7 +18,7 @@
 
 
 
-- 🌱 I’m currently learning **Advanced java**
+- 🌱 I’m currently learning: **Advanced java**
 
 - 👨‍💻  PortFolio (not for use) : [https://rohitrawat2001.github.io/PortFolio_website.github.io/](https://rohitrawat2001.github.io/PortFolio_website.github.io/)
 
