@@ -27,6 +27,9 @@
 
 - ⚡ Fun fact : **I am funny 😊👍**
 
+#Coding Profile
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/90308903-ebbb-44c1-9b81-6350ed77b614)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohit-rawat-9a70b1230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-rawat-9a70b1230" height="30" width="40" /></a>
