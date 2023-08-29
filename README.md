@@ -7,13 +7,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Rawat;" />
 </h1>
 
-<h3 align="center">Aspiring B.Tech Computer Science graduate seeking opportunities to leverage my technical skills and knowledge to contribute effectively to a dynamic organization while gaining valuable experience and professional growth</h3>
+<h3 align="left">Aspiring B.Tech Computer Science graduate seeking opportunities to leverage my technical skills and knowledge to contribute effectively to a dynamic organization while gaining valuable experience and professional growth</h3>
+
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitrawat2001&label=Profile%20views&color=0e75b6&style=flat" alt="rohitrawat2001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+
 
 - 🌱 I’m currently learning **Advanced java**
 
@@ -27,7 +30,7 @@
 
 - ⚡ Fun fact : **I am funny 😊👍**
 
-# Coding Profile
+# ->>> Coding Profile <<<-
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/810e3dbf-b865-4c96-8cc3-8f6bc7a786b2)
 
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/rohitrawat5172/practice/)
