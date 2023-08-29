@@ -27,8 +27,8 @@
 
 - ⚡ Fun fact : **I am funny 😊👍**
 
-#Coding Profile
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)]([https://www.codingninjas.com/studio/profile/90308903-ebbb-44c1-9b81-6350ed77b614](https://www.codingninjas.com/studio/profile/810e3dbf-b865-4c96-8cc3-8f6bc7a786b2))
+# Coding Profile
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/810e3dbf-b865-4c96-8cc3-8f6bc7a786b2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
