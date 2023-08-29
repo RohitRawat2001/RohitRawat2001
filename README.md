@@ -29,6 +29,7 @@
 
 # Coding Profile
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/810e3dbf-b865-4c96-8cc3-8f6bc7a786b2)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/rohitrawat5172/practice/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
