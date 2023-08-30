@@ -35,12 +35,14 @@
 
 - ⚡ Fun fact : **I am funny 😊👍**
 
-# ->>> Coding Profile <<<-
+# ©️oding Profile
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/810e3dbf-b865-4c96-8cc3-8f6bc7a786b2)
 
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/rohitrawat5172/practice/)
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/rohitrawat5172/)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -56,6 +58,6 @@
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️:)">
 </h3>
 
