@@ -36,7 +36,7 @@
 
 - 📄 Know about my experiences : [Resume.pdf](/Users/ROHIT%20RAWAT/Downloads/resume%20(2).pdf)
 
-- ⚡ Fun fact : **I am funny 😊👍**
+- ⚡ Fun fact : **I love Playing Games 😊👍**
 
 # 🅲🅾🅳🅸🅽🅶 🅿🆁🅾🅵🅸🅻🅴
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/810e3dbf-b865-4c96-8cc3-8f6bc7a786b2)
