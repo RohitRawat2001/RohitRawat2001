@@ -36,7 +36,7 @@
 
 - 📫 How to reach me : **rohitrawat5172@gmail.com**
 
-- 📄 Know about my experiences : [Resume.pdf](/Users/ROHIT%20RAWAT/Downloads/resume%20(2).pdf)
+- 📄 Know about my experiences : [Resume.pdf](https://www.canva.com/design/DAFrlU97D4Y/h0wqT2-nVzT_0sxJWvvDtw/edit?utm_content=DAFrlU97D4Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact : **I love Playing Games 😊👍**
 
