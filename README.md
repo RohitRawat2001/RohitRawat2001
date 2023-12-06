@@ -10,9 +10,6 @@
 <h3 align="left">Aspiring B.Tech Computer Science graduate seeking opportunities to leverage my technical skills and knowledge to contribute effectively to a dynamic organization while gaining valuable experience and professional growth</h3>
 
 
-
- 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitrawat2001&label=Profile%20views&color=FA016D&style=bold" alt="rohitrawat2001" /> </p>
 
 
