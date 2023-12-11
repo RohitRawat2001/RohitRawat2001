@@ -2,6 +2,7 @@
 ![githubBanner](https://github.com/RohitRawat2001/RohitRawat2001/assets/89390966/aff39259-ca40-4382-b525-c08b9b1cf24b)
 
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Rawat;" />
 </h1>
