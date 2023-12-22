@@ -25,7 +25,7 @@
 
 - 👨‍💻  PortFolio (not for use) : [https://rohitrawat2001.github.io/PortFolio_website.github.io/](https://rohitrawat2001.github.io/PortFolio_website.github.io/)
 
-- 💬 Ask me about : **Java**
+- 💬 Ask me about : **Java , Web development**
 
 - 📫 How to reach me : **rohitrawat5172@gmail.com**
 
