@@ -31,7 +31,7 @@
 - 📄 Know about my experiences : [Resume.pdf](https://www.canva.com/design/DAFrlU97D4Y/h0wqT2-nVzT_0sxJWvvDtw/edit?utm_content=DAFrlU97D4Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact : **ɪ ʟᴏᴠᴇ ᴘʟᴀʏɪɴɢ ɢᴀᴍᴇꜱ ᴀɴᴅ ᴅᴏɪɴɢ ᴄᴏᴅɪɴɢ 😊👍**
--  What motivate you : **There is a lot to learn, Keep in mind “ Mnn boot karega k chor yrr apne se nahi hoga yaha maza nahi aara, Just ask 1 question “ Why I started ? “**
+-  What motivate me 😜 : **There is a lot to learn, Keep in mind “ Mnn boot karega k chor yrr apne se nahi hoga yaha maza nahi aara, Just ask 1 question “ Why I started ? “**
 
 # 🅲🅾🅳🅸🅽🅶 🅿🆁🅾🅵🅸🅻🅴
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/studio/profile/810e3dbf-b865-4c96-8cc3-8f6bc7a786b2)
