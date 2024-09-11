@@ -10,11 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=rohitrawat2001&label=Profile%20views&color=FA016D&style=bold" alt="rohitrawat2001" />
 </p>
 
-<p align="center">
-    <a href="https://twitter.com/" target="blank">
-        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Profile" />
-    </a>
-</p>
+
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
