@@ -13,7 +13,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 ### 🌱 Currently Learning
 - **Spring Boot**
