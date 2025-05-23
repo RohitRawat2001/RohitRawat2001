@@ -22,7 +22,7 @@
 - **Java**, **Web Development**
 
 ### 👨‍💻 Portfolio
-- [Portfolio (Work in Progress)](https://rohitrawat2001.github.io/Porfolio/)
+- [Portfolio (Click Here)](https://rohitrawat2001.github.io/Porfolio/)
 
 ### 📫 How to reach me
 - **Email**: rohitrawat5172@gmail.com
